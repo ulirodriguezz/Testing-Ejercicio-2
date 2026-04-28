@@ -1,0 +1,11 @@
+# Reports generados localmente / en CI (el artefacto se sube desde el workflow)
+report/
+
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
