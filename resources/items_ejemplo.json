@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "nombre": "Cuaderno", "precio_unitario": 1200.0, "cantidad": 2 },
+    { "nombre": "Lápiz", "precio_unitario": 350.5, "cantidad": 5 }
+  ]
+}
