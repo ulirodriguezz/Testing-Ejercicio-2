@@ -1,6 +1,7 @@
 {
   "items": [
     { "nombre": "Cuaderno", "precio_unitario": 1200.0, "cantidad": 2 },
-    { "nombre": "Lápiz", "precio_unitario": 350.5, "cantidad": 5 }
+    { "nombre": "Lápiz", "precio_unitario": 350.5, "cantidad": 5 },
+    { "nombre": "Borrador", "precio_unitario": 200.0, "cantidad": 1 }
   ]
 }
